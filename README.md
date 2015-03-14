@@ -1,2 +1,3 @@
 # hello-world
-try to create repo
+hello github,
+      thanks for provied such a good feacher for us.
